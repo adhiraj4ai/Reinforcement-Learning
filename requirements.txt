@@ -1,0 +1,7 @@
+numpy
+jupyter
+matplotlib
+pygame
+swig
+gymnasium[all]
+opencv-python
