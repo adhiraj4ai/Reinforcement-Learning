@@ -5,3 +5,4 @@ pygame
 swig
 gymnasium[all]
 opencv-python
+pandas
